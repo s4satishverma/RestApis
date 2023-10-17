@@ -9,6 +9,7 @@ public class SbbuildingblocksApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SbbuildingblocksApplication.class, args);
 		System.out.println("Hello World...");
+		System.out.println("Hello World...testing");
 	}
 
 }
